@@ -1,7 +1,7 @@
 {
-  "name": "r4c00n/magic-meta-box",
+  "name": "mbv-media/magic-meta-box",
   "description": "Helper class to generate WordPress MetaBoxes.",
-  "homepage": "https://github.com/R4c00n/MagicMetaBox",
+  "homepage": "https://github.com/MBV-Media/MagicMetaBox",
   "license": "MIT",
   "keywords": [
     "wordpress",
@@ -9,8 +9,8 @@
   ],
   "authors": [
     {
-      "name": "R4c00n",
-      "email": "marcel.kempf93@gmail.com"
+      "name": "MBV-Media",
+      "email": "info@mbv-media.com"
     }
   ],
   "require": {
