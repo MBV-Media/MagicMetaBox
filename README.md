@@ -4,7 +4,7 @@ Helper class to generate wordpress metaboxes
 ## Installation
 If you're using composer, run:
 ```
-composer require r4c00n/magic-meta-box:*
+composer require mbv-media/magic-meta-box:*
 ```
 Require composer `autoload.php` and add `use MagicMetaBox\MagicMetaBox;` to your plugins code.
 
